@@ -1,6 +1,10 @@
-# Kakao interview
+# Interview
 
 Jongkook Choi (최종국)
+
+ * Problem 1 : Statistics
+ * Problem 2 : SQL
+ * Problem 3 : Report generation, ML
 
 ## How to run
 
